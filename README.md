@@ -1,5 +1,5 @@
-Bem vindo ao meu perfil
-Sou o Wandick Evangelista 
+Bem vindo ao meu perfil!
+Sou o Wandick
 
 Estou fazendo curso no Alura
 Estou me desenvolvendo na linguagem JavaScript
